@@ -1,3 +1,3 @@
 # Azure VM Template
 
-## Created for templating and backup purposes
+Created for templating and backup purposes
